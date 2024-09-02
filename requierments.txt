@@ -1,0 +1,7 @@
+pymongo
+statsmodels
+scikitlearn
+matplotlib
+pandas
+plotlt-express
+seaborn
